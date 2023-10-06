@@ -1,0 +1,86 @@
+*
+{
+    margin:0;
+
+}
+
+#nav-bar .log-btn{
+    background-image: linear-gradient(to right,#0d7873,#186b73);
+    position: relative;
+}
+
+#nav-bar a:hover {
+    cursor: pointer;
+}
+#nav-ba .nav-item a:hover{
+    cursor: pointer;
+   
+
+}
+
+#nav-bar .logo-img{
+    padding-left: 50px;
+
+}
+
+#banner
+{
+    background-image: linear-gradient(to right,#c5c2c5,#d4ced7);
+    color: #fff;
+    padding-top: 5%;
+}
+
+.promo-title{
+    color: black;
+    font-size: 50px;
+}
+
+.promo-para{
+    color: black;
+
+}
+
+.img-fluid
+{
+    padding-bottom: 50px;
+  padding: 100px;
+  border-radius: 20%;
+  box-shadow: #c5c2c5;
+  
+    
+}
+
+#banner .training-btn{
+    background-color: #0d7873;
+}
+
+
+#footer
+{
+
+    background-image: linear-gradient(to right,#420553,#46165d);
+    color: #fff;
+    padding: 0 80px;
+}
+
+
+
+.footer-img{
+        width: 100px;
+}
+
+.footer-para{
+    text-align: justify-content-end;
+}
+#footer .btn-secondary{
+    background-color: #186b73;
+   
+}
+
+#footer .btn-secondary{
+   
+    box-shadow: none;
+    padding:8px 25px;
+    border: none;
+    border-radius: 20px;
+}
